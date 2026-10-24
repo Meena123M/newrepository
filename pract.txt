@@ -1,0 +1,1 @@
+my new project .getting the score of hallucination is 0.90%. however i need to check the grafana.
